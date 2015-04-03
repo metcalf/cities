@@ -1,0 +1,3 @@
+git+git://github.com/GeospatialPython/pyshp.git@94fbb3b1e0b758ff73555d370316bd522cd3b9e5
+pyproj==1.9.4
+Shapely==1.5.7
